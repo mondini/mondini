@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mondini</h1>
-<h3 align="center">I'm a web developer. I like to make nerd stuff and maybe help people with it.</h3>
+<h3 align="center">I'm a web developer since 2008. I like to make nerd stuff and maybe help people with it.</h3>
 
 - 🔭 I’m currently working on **Prisma Box web application**
 
