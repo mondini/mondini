@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/ricardomondini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ricardomondini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ricardomondini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardomondini" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mondini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mondini" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/966987/mondini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mondini" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mondini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mondini" height="30" width="40" /></a>
 </p>
 
