@@ -32,17 +32,4 @@
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:mondini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardomondini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-<div align="center">
-  
-Thoughts o Medium
-
-[![Mondini Medium](https://github-readme-medium.vercel.app/?username=mondini&limit=2&bg=ffffff&text=5B5B5B)](https://medium.com/@mondini)
-</div>
